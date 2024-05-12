@@ -12,3 +12,7 @@ Repository of small notes while learning
   * subitems
 
   *this is bold* ~this is~
+
+```python
+a = input(int("27"))
+```
