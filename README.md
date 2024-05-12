@@ -16,3 +16,5 @@ Repository of small notes while learning
 ```python
 a = input(int("27"))
 ```
+
+added from website
