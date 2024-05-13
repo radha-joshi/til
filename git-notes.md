@@ -23,3 +23,5 @@ add file (stage changes) > commit > push
    -cd (file)-
     git pull
 
+
+
