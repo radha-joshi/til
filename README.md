@@ -17,4 +17,6 @@ Repository of small notes while learning
 a = input(int("27"))
 ```
 
-added from website
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+^^Syntax for any .md file
