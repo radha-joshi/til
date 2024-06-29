@@ -55,5 +55,8 @@ repository name [private/public; readme(optional)]
 git status
 ```
 
-# git reset
+# to get back to last comitted position
+```bash
+git reset
+```
 
