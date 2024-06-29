@@ -21,9 +21,9 @@ repository name [private/public; readme(optional)]
 -copy SSH url from code dropdown menu
 
  -in terminal-
-  ```bash
-  cd projects 
-  git clone (url)
+   ```bash
+   cd projects 
+   git clone (url)
   ```
 
 # to add, commit, push
@@ -32,7 +32,7 @@ repository name [private/public; readme(optional)]
   add file (stage changes) > commit > push
 
 -in terminal-
-  ```bash  
+   ```bash  
    cd (file)
     git add .
     git commit -m "commit message"
@@ -44,7 +44,7 @@ repository name [private/public; readme(optional)]
 -commit changes in git editor
 
   -in terminal-
-  ```bash
+   ```bash
    -cd (file)-
     git pull
   ``` 
@@ -56,6 +56,7 @@ git status
 ```
 
 # to get back to last comitted position
+
 ```bash
 git reset
 ```
