@@ -202,3 +202,78 @@
   <a href="https://www.freecodecamp.org">
     <img src="https://cdn.freecodecamp.org/platform/universal/fcc_secondary.svg">
   </a>
+
+
+# STEP 15
+
+  Before adding any new content, you should make use of a section element to separate the cat photos content from the future content.
+
+  The section element is used to define sections in a document, such as chapters, headers, footers, or any other sections of the document. It is a semantic element that helps with SEO and accessibility.
+
+  Example Code:
+  ```html
+  <section>
+    <h2>Section Title</h2>
+    <p>Section content...</p>
+  </section>
+  ```
+  Output:
+  <section>
+    <h2>Section Title</h2>
+    <p>Section content...</p>
+  </section>
+
+
+# STEP 16 
+
+  When you add a lower rank heading element to the page, it's implied that you're starting a new subsection.
+
+
+# STEP 17
+
+  To create an unordered list of items, you can use the ul element.
+
+
+# STEP 18
+
+  The li element is used to create a list item in an ordered or unordered list.
+
+  Here is an example of list items in an unordered list:
+
+  Example Code:
+  ```html
+  <ul>
+    <li>milk</li>
+    <li>cheese</li>
+  </ul> 
+  ```
+  Output: 
+  <ul>
+    <li>milk</li>
+    <li>cheese</li>
+  </ul> 
+
+
+# STEP 19
+
+  The figure element represents self-contained content and will allow you to associate an image with a caption.
+
+
+# STEP 20
+
+  A figure caption (figcaption) element is used to add a caption to describe the image contained within the figure element.
+
+  Here is an example of a figcaption element with the caption of A cute cat:
+
+  Example Code:
+  ```html
+  <figure>
+    <img src="image.jpg" alt="A description of the image">
+    <figcaption>A cute cat</figcaption>
+  </figure>
+  ```
+  Output:
+  <figure>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfK2TpU94R0wOqvt-fSY7ucmsKWUK7UDC8fQ&s" alt="A description of the image">
+    <figcaption>A cute cat</figcaption>
+  </figure>
