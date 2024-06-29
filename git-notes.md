@@ -13,7 +13,7 @@ cd projects
 
 ```bash
 new repository 
-repository name [private/public; readme(optional)]
+  repository name [private/public; readme(optional)]
 ```
 
 # to clone repository
@@ -23,7 +23,7 @@ repository name [private/public; readme(optional)]
  -in terminal-
    ```bash
    cd projects 
-   git clone (url)
+     git clone (url)
   ```
 
 # to add, commit, push
@@ -46,7 +46,7 @@ repository name [private/public; readme(optional)]
   -in terminal-
    ```bash
    cd (file)
-   git pull
+     git pull
   ``` 
 
 # to get state of working directory and staging area
