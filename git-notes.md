@@ -45,8 +45,8 @@ repository name [private/public; readme(optional)]
 
   -in terminal-
    ```bash
-   -cd (file)-
-    git pull
+   cd (file)
+   git pull
   ``` 
 
 # to get state of working directory and staging area
