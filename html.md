@@ -312,10 +312,10 @@
 
   Example code:
   ```html
-  <h3>cats <strong>hate</strong> other cats.</h3>
+  <p>cats <strong>hate</strong> other cats.</p>
   ```
   Output:
-  <h3>cats <strong>hate</strong> other cats.</h3>
+  <p>cats <strong>hate</strong> other cats.</p>
 
 
 # > Form element
@@ -334,7 +334,3 @@ Example Code:
 <form action="/submit-url"></form>
 ```
 In the example, action="/submit-url" tells the browser that the form data should be sent to the path /submit-url.
-
-
-
-
