@@ -275,3 +275,66 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfK2TpU94R0wOqvt-fSY7ucmsKWUK7UDC8fQ&s" alt="A description of the image">
     <figcaption>A cute cat</figcaption>
   </figure>
+
+# > Em element
+
+  To place emphasis on a specific word or phrase, you can use the em element.
+
+  Example code:
+  ```html
+  <h3>cats <em>love</em> lasagna.</h3>
+  ```
+  Output:
+  <h3>cats <em>love</em> lasagna.</h3>
+
+
+# > Ordered list
+
+  The code for an ordered list (ol) is similar to an unordered list, but list items in an ordered list are numbered when displayed.
+
+  Example code:
+  ```html
+  <ol>
+    <li>milk</li>
+    <li>cheese</li>
+  </ol> 
+  ```
+  Output: 
+  <ol>
+    <li>milk</li>
+    <li>cheese</li>
+  </ol> 
+
+
+# > Strong element
+
+  The strong element is used to indicate that some text is of strong importance or urgent.
+
+  Example code:
+  ```html
+  <h3>cats <strong>hate</strong> other cats.</h3>
+  ```
+  Output:
+  <h3>cats <strong>hate</strong> other cats.</h3>
+
+
+# > Form element
+
+  The form element is used to get information from a user like their name, email, and other details.
+
+
+# > Action attribute
+
+  The action attribute indicates where form data should be sent.
+
+Here is an example of a form element with an action attribute:
+
+Example Code:
+```html
+<form action="/submit-url"></form>
+```
+In the example, action="/submit-url" tells the browser that the form data should be sent to the path /submit-url.
+
+
+
+
