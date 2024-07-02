@@ -325,7 +325,7 @@
 
 # > Action attribute
 
-  The action attribute indicates where form data should be sent.
+The action attribute indicates where form data should be sent.
 
 Here is an example of a form element with an action attribute:
 
