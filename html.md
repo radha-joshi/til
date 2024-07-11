@@ -44,9 +44,12 @@
 
   The p element is used to create a paragraph of text on websites.
   
+  Example code:
   ```html
-  <p></p>
+  <p>hey, my name is radha, and I'm relearning HTML!</p>
   ```
+  Output:
+  <p>hey, my name is radha, and I'm relearning HTML!</p>
 
 # > Commenting
 
