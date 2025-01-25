@@ -1,5 +1,13 @@
 GIT is a popular version control system that records the changes made to our code over time in a special database called repository.
 
+# to create an ssh key
+
+settings > ssh and gpg keys > guide to :connecting to github using ssh keys" > scroll till "adding a new ssh key to ssh-agent" > generating a new ssh key and adding it to ssh agent > copy paste the text (not legacy system) to git bash > 
+
+
+
+
+
 # to access til repository
 
 ```bash
