@@ -4,12 +4,12 @@ GIT is a popular version control system that records the changes made to our cod
 ```bash
 git config user.name "gdhjhj"
 git config user.email "gjhsgj"
-
+```
 
 # to create an ssh key
-```bash
-ssh and gpg keys . guide to :connecting to github using ssh keys"  . scroll till "adding a new ssh key to ssh-agent" .     generating a new ssh key and adding it to ssh agent . copy paste the text (not legacy system) to git bash
-```
+
+github settings > ssh and gpg keys > guide to :connecting to github using ssh keys" > scroll till "adding a new ssh key to ssh-agent" > generating a new ssh key and adding it to ssh agent > copy paste the text (not legacy system) to git bash > a .ssh file will be created in main directory > copy and paste contents of public ssh file to "add ssh key" on github 
+
 
 
 # to access til repository
