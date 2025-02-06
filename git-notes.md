@@ -1,4 +1,4 @@
-GIT is a popular version control      system that records the changes made to our code over time in a special database called repository.
+GIT is a popular version control system that records the changes made to our code over time in a special database called repository.
 
 # git config
 ```bash
