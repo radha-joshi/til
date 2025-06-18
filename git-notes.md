@@ -35,7 +35,7 @@ new repository
  -in terminal-
    ```bash
    cd projects 
-     git clone (url)
+     git clone (copy paste the url NO BRACKETS IN ACTUAL CODE, THE BRACKETS ARE JUST FOR YOUR UNDERSTANDING)
   ```
 
 # to add, commit, push
