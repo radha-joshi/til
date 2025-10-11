@@ -2,8 +2,8 @@ GIT is a popular version control system that records the changes made to our cod
 
 # git config
 ```bash
-git config user.name "gdhjhj"
-git config user.email "gjhsgj"
+git config --global user.name "gdhjhj"
+git config --global user.email "gjhsgj"
 ```
 
 # to create an ssh key
