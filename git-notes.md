@@ -1,15 +1,18 @@
 GIT is a popular version control system that records the changes made to our code over time in a special database called repository.
 
-# git config
-```bash
-git config --global user.name "gdhjhj"
-git config --global user.email "gjhsgj"
-```
 
 # to create an ssh key
 
 github settings > ssh and gpg keys > guide to :connecting to github using ssh keys" > scroll till "adding a new ssh key to ssh-agent" > generating a new ssh key and adding it to ssh agent > copy paste the text (not legacy system) to git bash > a .ssh file will be created in main directory > copy and paste contents of public ssh file to "add ssh key" on github 
 
+# to add public ssh key
+open the .ssh folder u just created on vscode using "code ." and copy contents of pub file, paste this key into the "new public ssh key"
+
+# git config
+```bash
+git config --global user.name "gdhjhj"
+git config --global user.email "gjhsgj"
+```
 
 
 # to access til repository
